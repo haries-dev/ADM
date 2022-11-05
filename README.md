@@ -32,6 +32,7 @@ ADM(Advance Defense Mechanism) is a software to block/prevent from highly weapon
 ![](https://github.com/haries-dev/ADM/blob/main/Images/12.png)
 ![](https://github.com/haries-dev/ADM/blob/main/Images/13.png)
 
-
+# Project Status
+Public Release Soon....
 
 
